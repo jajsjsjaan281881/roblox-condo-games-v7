@@ -132,7 +132,7 @@ export default function HomePage() {
                     className="w-full bg-red-600 hover:bg-red-700 text-white font-semibold"
                     onClick={() =>
                       window.open(
-                        "https://roblox.cd/games/15932212022/your-sus-gas-station-worker?privateServerLinkCode=59304922146840471746508219988372",
+                        "https://roblox.cd/games/15932212022/your-sus-gas-station-worker?privateServerLinkCode=51515587687677582099107042271519",
                         "_blank",
                       )
                     }
@@ -163,7 +163,7 @@ export default function HomePage() {
                     className="w-full bg-red-600 hover:bg-red-700 text-white font-semibold"
                     onClick={() =>
                       window.open(
-                        "https://roblox.cd/games/88848566014743/AI-NPC-Friends?privateServerLinkCode=59304922146840471746508219988372",
+                        "https://roblox.cd/games/88848566014743/AI-NPC-Friends?privateServerLinkCode=51515587687677582099107042271519",
                         "_blank",
                       )
                     }
@@ -194,7 +194,7 @@ export default function HomePage() {
                     className="w-full bg-red-600 hover:bg-red-700 text-white font-semibold"
                     onClick={() =>
                       window.open(
-                        "https://roblox.cd/games/126018438287036/Neko-Girl-Town?privateServerLinkCode=59304922146840471746508219988372",
+                        "https://roblox.cd/games/126018438287036/Neko-Girl-Town?privateServerLinkCode=51515587687677582099107042271519",
                         "_blank",
                       )
                     }
@@ -223,7 +223,7 @@ export default function HomePage() {
                     className="w-full bg-red-600 hover:bg-red-700 text-white font-semibold"
                     onClick={() =>
                       window.open(
-                        "https://roblox.cd/games/76106209840076/Weird-Neko-Untitled-Game?privateServerLinkCode=59304922146840471746508219988372",
+                        "https://roblox.cd/games/76106209840076/Weird-Neko-Untitled-Game?privateServerLinkCode=51515587687677582099107042271519",
                         "_blank",
                       )
                     }
